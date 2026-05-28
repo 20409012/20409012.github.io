@@ -1,0 +1,20 @@
+
+/* Change color on hover */
+div.topnav li a:hover {
+    background-color: #2600ff;
+    color: rgb(255, 251, 0);
+  }
+  <div class="topnav">
+        <div class="blue">
+          <div class="home"> <li><a href="Index.html"> Home page </a></li></div>
+        </div>
+        <div class="red">
+          <div class="menu"> <li><a href="Menu.html"> Menu </a></li> </div>
+        </div>
+        <div class="black">
+          <div class="staff"> <li><a href="Staff.html"> Staff </a></li></div>
+        </div>
+        <div class="purple">
+          <div class="contact"> <li><a href="Contacts.html"> Contact us </a></li></div>
+        </div>
+    </div> 
